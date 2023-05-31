@@ -21,5 +21,5 @@
 		i.e. projects available, section and their capacity in the first sheet and the student choices in the second sheet
 
 
-# Once paths and options have been set this script can be ran in a terminal of which the best epoch will be fed to a csv named 'Best_allocation.csv'
+Once paths and options have been set this script can be ran in a terminal (or in spyder) of which the best epoch will be fed to a csv named 'Best_allocation.csv'
 
